@@ -1,4 +1,4 @@
-网页设计于制作期末作业模板
+网页设计与制作期末作业模板
 ==========================
 如何使用
 --------
@@ -8,7 +8,7 @@
 
 授权
 ====
-#### 本网页模板用于占位的文字来源于[MLP中文维基](https://mlp.huijiwiki.com), 遵循[![知识共享许可协议](https://i.creativecommons.org/l/by-sa/3.0/88x31.png)](http://creativecommons.org/licenses/by-sa/3.0/)  
+#### 在本网页模板中, 用于占位的文字来源于[MLP中文维基](https://mlp.huijiwiki.com), 遵循[![知识共享许可协议](https://i.creativecommons.org/l/by-sa/3.0/88x31.png)](http://creativecommons.org/licenses/by-sa/3.0/)  
 以下网页文件中的占位字符采用[知识共享署名-相同方式共享 3.0 未本地化版本许可协议](http://creativecommons.org/licenses/by-sa/3.0/)进行许可。
 
 #### 遵循知识共享署名-相同方式共享 3.0 未本地化版本许可协议内容为以下
